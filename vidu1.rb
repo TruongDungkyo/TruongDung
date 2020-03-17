@@ -1,1 +1,1 @@
-puts "xin chao cac ban"
+puts "xin chao cac ban!"
